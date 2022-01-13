@@ -6,5 +6,8 @@
 
 # contiene los archivos bases para ejecutar el proyecto, se debe descomprimir en la carpeta principal del servidor local
 
+Considere tambien, vincular el script "tiendareverdecer.sql" a su servidor local para poder establecer una conexion exitosa con la base de datos
+igualmente, recuerde cambiar las credenciales de ingreso a su localhost o servidor.
+
 
 
