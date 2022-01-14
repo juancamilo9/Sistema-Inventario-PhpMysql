@@ -47,7 +47,7 @@ $pdf->AddPage();
 $bloque1 = <<<EOF
     <table>
         <tr>
-            <td style="width:150px;"><h1>Tienda el Reverdecer</h1></td>
+            <td style="width:150px;"><h1>Nombre tienda</h1></td>
             <td style="width: 140px;">
                 <div style="font-size:8.5px; text-aling:rigth;line-heigth:15px;">
                     <br>
